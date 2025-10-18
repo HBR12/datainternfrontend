@@ -1,6 +1,7 @@
 import Internships from "@/components/internships";
-import { Button } from "@/components/ui/button";
 import { Marquee } from "@/components/ui/marquee";
+
+export const dynamic = "force-dynamic";
 
 export default function Home() {
   return (
